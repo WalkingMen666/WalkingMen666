@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BF91F3&center=true&vCenter=true&width=600&lines=Everyone+has+a+happy+ending.;If+you+are+not+happy,;it's+not+the+end.;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BF91F3&center=true&vCenter=true&width=600&lines=Stop+Dreaming.;"/>
 </p>
 
 <p align="center">
