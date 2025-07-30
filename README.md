@@ -103,7 +103,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=WalkingMen666&show_icons=true&theme=tokyonight" />
   
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```rust
+From: 29 July 2025 - To: 29 July 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 </p>
 
 <p align="center">
