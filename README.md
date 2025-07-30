@@ -94,13 +94,14 @@
 ## GitHub 統計
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WalkingMen666&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=WalkingMen666&show_icons=true&theme=tokyonight" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WalkingMen666/WalkingMen666/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WalkingMen666/WalkingMen666/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WalkingMen666/WalkingMen666/output/github-contribution-grid-snake.svg" />
   </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=WalkingMen666&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WalkingMen666&show_icons=true&theme=tokyonight" />
+  
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </p>
