@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,md,windows,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,md,windows,github,vscode,git&theme=dark" />
 </p>
 
 <p align="center">
@@ -94,8 +94,15 @@
 ## GitHub 統計
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WalkingMen666&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=WalkingMen666&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WalkingMen666&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WalkingMen666/WalkingMen666/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WalkingMen666/WalkingMen666/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WalkingMen666/WalkingMen666/output/github-contribution-grid-snake.svg" />
+  </picture>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </p>
 
 <p align="center">
